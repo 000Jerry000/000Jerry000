@@ -2,8 +2,7 @@ Hi there 👋!
 
 #### Who I am?
 
-- A Senior Software Engineer based in **[Asakura](https://en.wikipedia.org/wiki/Asakura), [Japan](https://en.wikipedia.org/wiki/Japan)** with 6+ years of experience.
-- Among the top 200 open source **[GitHub contributors from Bangladesh](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/bangladesh.md)**.
+- A Senior Software Engineer based in **[Ishikawa](https://en.wikipedia.org/wiki/Ishikawa), [Japan](https://en.wikipedia.org/wiki/Japan)** with 6+ years of experience.
 - See my portfolio at **[masao-portfolio.vercel.app](https://www.masao-portfolio.vercel.app)**.
 
 #### What I'm doing?
