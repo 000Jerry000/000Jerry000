@@ -3,7 +3,7 @@ Hi there 👋!
 #### Who I am?
 
 - A Senior Software Engineer based in **[Ishikawa](https://en.wikipedia.org/wiki/Ishikawa), [Japan](https://en.wikipedia.org/wiki/Japan)** with 6+ years of experience.
-- See my portfolio at **[d-po.vercel.app](https://www.d-po.vercel.app)**.
+- See my portfolio at **[d-po.vercel.app](https://d-po.vercel.app)**.
 
 #### What I'm doing?
 
